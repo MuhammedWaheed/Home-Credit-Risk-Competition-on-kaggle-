@@ -1,8 +1,8 @@
 # Home-Credit-Risk-Competition-on-kaggle-
 In this project we try to predict home credit default risk for clients. We try to predict, if the client will have payment difficulties or not
-##Dataset:  https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
-#Description
-##Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
+##  Dataset:  https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
+# Description
+## Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
 Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 
