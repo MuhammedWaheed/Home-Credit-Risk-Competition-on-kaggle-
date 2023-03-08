@@ -1,6 +1,6 @@
 # Home-Credit-Risk-Competition-on-kaggle-
 In this project we try to predict home credit default risk for clients. We try to predict, if the client will have payment difficulties or not
-##  Dataset:  https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
+## Dataset:  https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
 # Description
 ## Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
