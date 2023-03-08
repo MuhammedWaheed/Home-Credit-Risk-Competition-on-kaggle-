@@ -1,5 +1,5 @@
 ## Home-Credit-Risk-Competition-on-kaggle-
-In this project we try to predict home credit default risk for clients. We try to predict, if the client will have payment difficulties or not
+This is an end to end Machine Learning Case Study, which focusses on building a predictive model by leveraging the dataset provide by Home Credit Group for identifying Potential Loan Defaulters.
 ##
 Dataset:https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
 ## Description
